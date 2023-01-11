@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jonasmreza" target="blank"><img src="https://img.shields.io/twitter/follow/jonasmreza?logo=twitter&style=for-the-badge" alt="jonasmreza" /></a> </p>
 
-- 🌱 I’m currently learning **Data engineer Path en SimpliLearn**
+- 🌱 Actualmente estudio **Data engineer Path en SimpliLearn** y Trabajo en IT Support (Remoto), a toda la Republica Mexicana.
 
 - 💬 Puedes preguntarme sobre: **Data science, Soporte Tecnico**
 
